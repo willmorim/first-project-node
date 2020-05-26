@@ -1,0 +1,16 @@
+{
+  "name": "@babel/helper-member-expression-to-functions",
+  "version": "7.10.0",
+  "description": "Helper function to replace certain member expressions with function calls",
+  "repository": "https://github.com/babel/babel/tree/master/packages/babel-helper-member-expression-to-functions",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "lib/index.js",
+  "author": "Justin Ridgewell <justin@ridgewell.name>",
+  "dependencies": {
+    "@babel/types": "^7.10.0"
+  },
+  "gitHead": "5da2440adff6f25579fb6e9a018062291c89416f"
+}
