@@ -43,7 +43,7 @@ class ListProviderAppointmentsService {
           year,
         },
       );
-      console.log('BUSCOU NO BANCO 🚀');
+
       await this.cacheProvider.save(cacheKey, appointments);
     }
 
